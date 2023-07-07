@@ -1,1 +1,1 @@
-# SchlarSync
+# ScholarSync
